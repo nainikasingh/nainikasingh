@@ -1,10 +1,10 @@
 Hi 👋, I'm Nainika Singh
 
-Professionally Python Programmer. Love to contribute towards sustainable future!
+A results-driven Data Analyst with 2 years of experience in delivering actionable insights through data analysis, visualization, and business intelligence. Proven ability to transform raw data into strategic insights that improve decision-making and drive business growth. 
+⚡ Proficient in Python, SQL, Power BI, Looker Studio, and advanced Excel techniques. Skilled in statistical analysis, trend forecasting, data mining, and data visualization. ⚡
+Excellent problem-solving abilities and a strong understanding of business operations. Seeking to leverage analytical skills and knowledge in data science to drive impactful business outcomes.
 
-I’m currently learning to process structure an instruction that can be interpreted and understood by a generative AI model.
-
-⚡ I know Python DSA, SQL, Power BI, JavaScript, PHP, HTML 
+ I
 
 <!---
 nainikasingh/nainikasingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
