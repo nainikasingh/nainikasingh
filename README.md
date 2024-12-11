@@ -1,6 +1,10 @@
 Hi 👋, I'm Nainika Singh!
 
-A results-driven Data Analyst with 2 years of experience in delivering actionable insights through data analysis, visualization, and business intelligence. Proven ability to transform raw data into strategic insights that improve decision-making and drive business growth. 
+Dynamic Full-Stack Developer and Data Analyst with experience in designing, developing, and optimizing scalable web applications and business intelligence solutions. 
+
+Proficient in JavaScript frameworks, backend technologies, CI/CD pipelines, and cloud services, with a proven track record in delivering innovative solutions that enhance user experience and operational efficiency. 
+
+Seeking to leverage technical expertise and creative problem-solving skills in a challenging role that demands excellence in web development and emerging technologies
 
 Proficient in Python, SQL, Power BI, Looker Studio, and advanced Excel techniques. Skilled in statistical analysis, trend forecasting, data mining, and data visualization. ⚡
 
