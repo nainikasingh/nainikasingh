@@ -77,7 +77,7 @@
 
 ---
 
-🧩 *“Code like a girl, debug like a boss.”*
+🧩 *“All you need is to know how to debug like a BOSS.”*
 
 
 <!---
