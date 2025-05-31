@@ -69,11 +69,12 @@
 > If you can read this, you're probably running `sudo`. Let's be root together! 😎
 
 ---
-
+commudle
 🔗 **Let’s Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nainika-singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nainikasingh)
+[![Commudle](https://img.shields.io/badge/Commudle-181717?style=for-the-badge&logo=commudle)](https://www.commudle.com/users/nainikasingh)
 
 ---
 
