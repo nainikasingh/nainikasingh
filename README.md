@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nainika Singh</h1>
-<h3 align="center">AI Engineer | Backend Developer | Community Contributor</h3>
+<h3 align="center">AI Developer | Data Science | AI ML | Backend Developer | Community Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C7E&center=true&vCenter=true&width=435&lines=AI+Engineer+%F0%9F%96%A5%EF%B8%8F;Backend+Developer+%F0%9F%94%A7;Tech+Community+Contributor+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C7E&center=true&vCenter=true&width=435&lines=AI+Developer+%F0%9F%96%A5%EF%B8%8F;Backend+Developer+%F0%9F%94%A7;Tech+Community+Contributor+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
