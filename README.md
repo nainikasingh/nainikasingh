@@ -77,7 +77,7 @@ commudle
 
 ---
 
-🧩 *“All you need is to know how to debug like a BOSS.”*
+🧩 *“All you need is to know how to DEBUG.”*
 
 
 <!---
