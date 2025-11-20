@@ -54,14 +54,6 @@
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nainikasingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p> 
-
----
-
 ⚡ **Fun Fact**
 
 > I run on `archupdate && sudo pacman -Syu && reboot` more than caffeine. ☕🐧  
