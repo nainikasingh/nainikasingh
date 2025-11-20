@@ -60,7 +60,7 @@
 > If you can read this, you're probably running `sudo`. Let's be root together! 😎
 
 ---
-commudle
+
 🔗 **Let’s Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nainika-singh/)
