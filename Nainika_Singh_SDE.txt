@@ -1,0 +1,76 @@
+﻿Nainika Singh
+  nainika.india@gmail.com 
+
+
+ABOUT
+  Innovative Backend Developer with strong expertise in building scalable APIs, data-driven systems, and AI-integrated backend solutions. Skilled in Python, FastAPI, and cloud technologies such as AWS and Docker. Experienced in automation, data engineering, and performance optimization across backend pipelines. Passionate about solving complex problems and designing systems that deliver impact, speed, and intelligence.
+
+
+EDUCATION
+	Indian Institute of Technology, Patna                       2026-2028
+M.Tech – Artificial Intelligence and Data Science Engineering  
+Courses: Generative AI Techniques (NLP, GANs, Transformers) | AI-Driven Product Lifecycle Management | AI Ethics 
+JIMS Engineering Management Technical Campus (GGS IP University), Delhi                       2021-2025
+B.Tech – Computer Science with Minor Specialization in AI  
+GPA: 8.66 | Ranked #1 in 8th Sem (98%)
+Courses: Data Structures and Algorithms (DSA) | Artificial Intelligence (AI) | Data Science | Intelligent And Expert Systems
+
+
+Nirmala Convent Sr. Sec. School, Nainital                                     Class 12: 90.8%  (2020-2021) | Class 10: 90.2%  (2018-2019) 
+
+
+PROFESSIONAL EXPERIENCE
+	IUS Digital Solutions [B2B, B2C IT Software]                                                                                            NYC,  USA [Remote]
+SDE - Back End Developer                                                                                                           July 2024 – Present
+* Manage and maintain multiple international client platforms (Sarasota Motor Club, Kokomo Charters, Kokomo Yacht Club, Express Docks, Rib-It Boats, Offshore Sailing, Special Needs Trusts), ensuring performance, uptime, and functional accuracy.
+* Develop backend modules and automation scripts using Python to support business processes and reporting workflows.
+* Design and deliver structured MIS dashboards using Power BI and Advanced Excel for operational and marketing performance tracking with building data scraping tool with complete automated cold calling systems integration.
+* Build and optimize MySQL database queries; ensure data integrity and cross-system consistency.
+* Automate recurring reporting processes, reducing manual effort and improving turnaround time.
+* Implement structured data (JSON-LD), SEO performance tracking, and analytical monitoring frameworks.
+* Collaborate with cross-functional stakeholders to gather requirements, resolve issues, and deliver solutions within defined timelines.
+Outlook Publishing Pvt. Ltd. [B2B Magazine Agency]                                       Delhi, India
+Business Analyst                                                                                                        February 2024 - July 2024
+* Prepared periodic MIS reports and analytical summaries to support editorial and business strategy decisions.
+* Conducted data cleaning, statistical analysis, and visualization using Excel, SPSS, and Power BI.
+* Coordinated with internal teams to ensure reporting accuracy and adherence to deadlines.
+
+
+PROJECTS
+ Automated Resume Intelligence Tool [Python, AI, TensorFlow, spaCy, FastApi, PDFKit]                                 Sept 2025
+* Built an AI-powered resume analyzer to extract candidate data, assess section quality, and recommend keyword enhancements for ATS optimization. 
+* Implemented PDF highlighting for improvement areas, improving recruiter screening efficiency by 35%.
+ AI-Powered Cold Calling System [FastAPI, gspread, Twilio ,Mistral, AWS, NLP]                                                       July 2025
+* Developed an automated bilingual cold-calling system integrating Google Sheets, Twilio VoIP, and sentiment analysis using a fine-tuned Mistral model. 
+* Automated call documentation and sentiment-based lead classification, reducing manual review time by 50%.
+ Inventory Management AI Assistant [MongoDB, FastAPI, OpenAI, AWS EC2, SessionManager]                            May 2025
+* Engineered a conversational AI assistant for inventory queries using organization-based access control. 
+* Enabled 24/7 query resolution, integrating intelligent vector search for real-time stock and purchase order data retrieval.
+
+
+SKILLS
+
+Languages: Python, GoLang, SQL
+Frameworks: FastAPI, Django, Flask,
+Databases: MySQL,, MongoDB
+Cloud & DevOps: AWS (Lambda, S3, EC2), Docker, GitHub Actions
+Tools: Git, Postman, PyTest, BeeKeeper, BeautifulSoup, Selenium, Power BI
+Concepts: REST APIs, Microservices, System Design, Scalability, Data Structures & Algorithms
+
+
+CERTIFICATIONS
+	
+* NVIDIA — Building Agentic AI Applications with LLMs (Ongoing)
+* IBM — Getting Started with Artificial Intelligence (Jul 2025)
+* Google — Build Real World AI Applications with Gemini & Imagen (Jun 2025) AND Prompt Design in Vertex AI (Jul 2025)
+* IBM — Generative AI: Prompt Engineering Basics (Aug 2024)
+* Cisco — Python Essentials 1 (Jul 2024)
+* Google — Foundations: Data, Data, Everywhere (Jun 2024)
+* University of Michigan — Programming for Everybody (Python) (Jun 2024)
+
+
+OPEN SOURCE COMMUNITY CONTRIBUTIONS & PUBLICATION
+
+* GDG New Delhi and Firebase Studio Developer Community Member - contributing to AI and cloud innovation events.
+* Core Team Member, Defcon Gurugram — cybersecurity & backend engineering initiatives.
+* Singh, Nainika (2025). “Predicting Prosperity: AI and Machine Learning in Personal Finance Evolution”. Presented at Hinweis Third Int’l Conference on Control System and Signal Processing (CSSP 2025).
